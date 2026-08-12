@@ -1,0 +1,16 @@
+# 运行产物
+*.png
+delete_diag.txt
+step1_loaded.png
+step2_selected.png
+hover_state.png
+
+# junction 目录（运行时创建，指向本机真实 Chrome User Data）
+chrome_link/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
